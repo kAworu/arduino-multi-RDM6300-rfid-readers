@@ -1,7 +1,7 @@
 # Arduino Make file. Refer to https://github.com/sudar/Arduino-Makefile
 
-BOARD_TAG    = nano328
-include ./Arduino-Makefile/Arduino.mk
+BOARD_TAG    = mega2560
+include ../Arduino-Makefile/Arduino.mk
 
 
 
